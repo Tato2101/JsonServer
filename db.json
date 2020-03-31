@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "name": "nombre1",
+            "img": "imagen",
+            "price": "precio",
+            "cuantity": 0
+        },
+        {
+            "name": "nombre2",
+            "img": "imagen",
+            "price": "precio",
+            "cuantity": 0
+        },
+        {
+            "name": "nombre3",
+            "img": "imagen",
+            "price": "precio",
+            "cuantity": 0
+        },
+        {
+            "name": "nombre4",
+            "img": "imagen",
+            "price": "precio",
+            "cuantity": 0
+        },
+        {
+            "name": "nombre5",
+            "img": "imagen",
+            "price": "precio",
+            "cuantity": 0
+        },
+        {
+            "name": "nombre6",
+            "img": "imagen",
+            "price": "precio",
+            "cuantity": 0
+        },
+        {
+            "name": "nombre7",
+            "img": "imagen",
+            "price": "precio",
+            "cuantity": 0
+        },
+        {
+            "name": "nombre8",
+            "img": "imagen",
+            "price": "precio",
+            "cuantity": 0
+        },
+        {
+            "name": "nombre9",
+            "img": "imagen",
+            "price": "precio",
+            "cuantity": 0
+        },
+        {
+            "name": "nombre10",
+            "img": "imagen",
+            "price": "precio",
+            "cuantity": 0
+        }
+    ]
+}
