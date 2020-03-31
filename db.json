@@ -1,64 +1,64 @@
 {
     "products": [
         {
-            "name": "nombre1",
+            "name": "Gancho Legajador 10 cm",
             "img": "https://www.officedepot.com.co/medias/2680.jpg-1200ftw?context=bWFzdGVyfHJvb3R8MzM0MjA4fGltYWdlL2pwZWd8aGNmL2hiMy85NjI5NDgwMTI0NDQ2LmpwZ3wwNzhkZjI3MzRmYTkyODY1MDg1OWMyOGQwZjBjN2FkNTJjODU4NWQ1NGY0NGZkNjdiNmJhYTFkYzNiNTViNmQ5",
-            "price": "precio",
-            "cuantity": 0
+            "price": "35 COP c/u",
+            "cuantity": 250000
         },
         {
-            "name": "nombre2",
+            "name": "Carpeta tamaño carta",
             "img": "https://www.dhresource.com/600x600/f2/albu/g7/M01/74/BF/rBVaSlp1X4eAVy2ZAAE4Wc1qQIA821.jpg",
-            "price": "precio",
-            "cuantity": 0
+            "price": "1000 COP c/u",
+            "cuantity": 1500
         },
         {
-            "name": "nombre3",
+            "name": "Colores Prismacolor",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHIppQXaJGXTkQ_4nE3up7b9rdwgvmNNIRHosWMQTpyO_j67pT&usqp=CAU",
-            "price": "precio",
-            "cuantity": 0
+            "price": "30000 COP caja",
+            "cuantity": 300
         },
         {
-            "name": "nombre4",
-            "img": "imagen",
-            "price": "precio",
-            "cuantity": 0
+            "name": "Plumones Prismacolor",
+            "img": "https://mache.com.co/wp-content/uploads/2018/12/BRUSH-MARKERS-1-1.jpg",
+            "price": "25000 COP paquete",
+            "cuantity": 250
         },
         {
-            "name": "nombre5",
-            "img": "imagen",
-            "price": "precio",
-            "cuantity": 0
+            "name": "Plumones Pelican",
+            "img": "https://panamericana.vteximg.com.br/arquivos/ids/288130-600-690/plumones-colorella-x-12-7703064471207.jpg?v=636582729174570000",
+            "price": "15000 COP paquete",
+            "cuantity": 100
         },
         {
-            "name": "nombre6",
-            "img": "imagen",
-            "price": "precio",
-            "cuantity": 0
+            "name": "Crayolas Crayola",
+            "img": "https://miscelandia.vteximg.com.br/arquivos/ids/171069_2.jpg",
+            "price": "20000 COP caja",
+            "cuantity": 125
         },
         {
-            "name": "nombre7",
-            "img": "imagen",
-            "price": "precio",
-            "cuantity": 0
+            "name": "Marcadores Crayola",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/61Rq%2BRthemL._AC_SL1081_.jpg",
+            "price": "40000 COP caja",
+            "cuantity": 80
         },
         {
-            "name": "nombre8",
-            "img": "imagen",
-            "price": "precio",
-            "cuantity": 0
+            "name": "Plastilina Norma",
+            "img": "https://todoenartes.co/6026-lightbox_default/plastilina-norma-gigante-x-12.jpg",
+            "price": "15000 caja",
+            "cuantity": 90
         },
         {
-            "name": "nombre9",
-            "img": "imagen",
-            "price": "precio",
-            "cuantity": 0
+            "name": "Plastilina Play-Doh",
+            "img": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/plastilina.jpg",
+            "price": "6000 c/u",
+            "cuantity": 300
         },
         {
-            "name": "nombre10",
-            "img": "imagen",
-            "price": "precio",
-            "cuantity": 0
+            "name": "Resma de Papel",
+            "img": "https://media.aws.alkosto.com/media/catalog/product/cache/6/image/660x441/69ace863370f34bdf190e4e164b6e123/r/e/resma_de_papel_4b80a37359c52_1.jpg",
+            "price": "25000",
+            "cuantity": 100
         }
     ],
     "users": [
