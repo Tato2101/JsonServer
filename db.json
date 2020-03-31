@@ -8,13 +8,13 @@
         },
         {
             "name": "nombre2",
-            "img": "imagen",
+            "img": "https://www.dhresource.com/600x600/f2/albu/g7/M01/74/BF/rBVaSlp1X4eAVy2ZAAE4Wc1qQIA821.jpg",
             "price": "precio",
             "cuantity": 0
         },
         {
             "name": "nombre3",
-            "img": "imagen",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHIppQXaJGXTkQ_4nE3up7b9rdwgvmNNIRHosWMQTpyO_j67pT&usqp=CAU",
             "price": "precio",
             "cuantity": 0
         },
@@ -59,6 +59,12 @@
             "img": "imagen",
             "price": "precio",
             "cuantity": 0
+        }
+    ],
+    "users": [
+        {
+            "username": "comprador1",
+            "password": "12345678"
         }
     ]
 }
