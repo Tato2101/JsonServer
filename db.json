@@ -2,7 +2,7 @@
     "products": [
         {
             "name": "nombre1",
-            "img": "imagen",
+            "img": "https://www.officedepot.com.co/medias/2680.jpg-1200ftw?context=bWFzdGVyfHJvb3R8MzM0MjA4fGltYWdlL2pwZWd8aGNmL2hiMy85NjI5NDgwMTI0NDQ2LmpwZ3wwNzhkZjI3MzRmYTkyODY1MDg1OWMyOGQwZjBjN2FkNTJjODU4NWQ1NGY0NGZkNjdiNmJhYTFkYzNiNTViNmQ5",
             "price": "precio",
             "cuantity": 0
         },
